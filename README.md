@@ -1,5 +1,5 @@
 <a href="https://wembassy.com" target="_blank">
-<img width="900" height="362" src="https://www.wembassy.com/sites/default/files/2022-02/background_gif.gif" title="Intro backgound"/>
+<img width="100%" height="auto" src="https://www.wembassy.com/sites/default/files/2022-02/github%20header.png" title="Intro backgound"/>
 </a>
 
 I am passionate about Open Source projects that help transform lives, and make entrepreneurial dreams come through.

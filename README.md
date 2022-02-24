@@ -1,4 +1,6 @@
-<a href="https://wembassy.com" target="_blank"><img src="https://github.com/EddieHubCommunity/Branding/raw/main/community/Eddie_banner_GIF.gif" /></a>
+<a href="https://wembassy.com" target="_blank">
+<iframe width="900" height="362" src="https://www.youtube.com/embed/78cNYIUiirk?controls=0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</a>
 
 I am passionate about Open Source projects that help transform lives, and make entrepreneurial dreams come through.
 I primarily geek out on Drupal and Web3 technology that can be used to help create amasing Online Experiences.

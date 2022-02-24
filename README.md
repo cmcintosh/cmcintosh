@@ -41,3 +41,5 @@ I primarily geek out on Drupal and Web3 technology that can be used to help crea
     <td>I was on Chris' team at The American College. Chris brought an extremely strong knowledge of Drupal to a development team that had almost none and made a huge impact almost immediately. Known for taking work home, he did what it took to complete things in a timely fashion and once he got down into a project you practically had to rip him away. He was a leading factor in implementing continuous integration practices as well as a driving force in bringing agile development to The College. It was a pleasure working with Chris as his knowledge was always cutting edge in an array of areas from JavaScript to Drupal/PHP to best practices and CI and his drive and thirst was easily contagious.</td>
   </tr>
 </table>
+
+<img src="https://www.wembassy.com/sites/default/files/2022-02/2022-02-23-21-18-github.com_.png?itok=kPiznKFA" width="100%" height="auto"/>

@@ -14,9 +14,9 @@ I primarily geek out on Drupal and Web3 technology that can be used to help crea
     <img src="https://img.shields.io/twitter/follow/TeamWembassy?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
   </a>
   <a href="https://discord.gg/82AGaCCAHn">
-    <img src="https://img.shields.io/discord/699608417039286293?logo=discord&style=for-the-badge&color=blue" />
+    <img src="https://img.shields.io/discord/722415039696338944?logo=discord&style=for-the-badge&color=blue" />
   </a>
   <a href="https://www.youtube.com/channel/UCcXUo9CFv6axlKTa6EHO06g?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC5mnBodB73bR88fLXHSfzYA?style=for-the-badge&logo=youtube&label=Youtube&color=blue" />
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCcXUo9CFv6axlKTa6EHO06g?style=for-the-badge&logo=youtube&label=Youtube&color=blue" />
   </a>
 </p>

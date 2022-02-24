@@ -1,5 +1,5 @@
 <a href="https://wembassy.com" target="_blank">
-<iframe width="900" height="362" src="https://www.youtube.com/embed/78cNYIUiirk?controls=0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<img width="900" height="362" src="https://www.youtube.com/embed/78cNYIUiirk?controls=0&autoplay=https://raw.githubusercontent.com/cmcintosh/cmcintosh/main/background_gif.gif" title="Intro backgound"/>
 </a>
 
 I am passionate about Open Source projects that help transform lives, and make entrepreneurial dreams come through.

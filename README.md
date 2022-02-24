@@ -42,4 +42,4 @@ I primarily geek out on Drupal and Web3 technology that can be used to help crea
   </tr>
 </table>
 
-<img src="https://www.wembassy.com/sites/default/files/2022-02/2022-02-23-21-18-github.com_.png?itok=kPiznKFA" width="100%" height="auto"/>
+<img src="https://www.wembassy.com/sites/default/files/2022-02/2022-02-23-21-18-github.com__0.png" width="100%" height="auto"/>

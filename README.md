@@ -29,6 +29,12 @@ I primarily geek out on Drupal and Web3 technology that can be used to help crea
     <th>Message</th>
   </tr>
   <tr>
+    <td><a target="_blank" href="https://www.linkedin.com/in/logismico/">Stefanos Tsesmetzis</a></td>
+    <td>Chris helped out with the backend development on a couple of projects, this included work on a headless Drupal site for the New York Lottery.
+  <br>
+  He has good attention to detail when it comes to tasks and has a creative approach to solving challenges on the project. His experience with Drupal 8 and the various APIs that Drupal provides is solid....</td>
+  </tr>
+  <tr>
     <td><a target="_blank" href="https://www.linkedin.com/in/anthony-sgueglia-7901b03b">Anthony Sgueglia</a></td>
     <td>I worked with Chris on a very complex website powered by a headless configuration of Drupal. He was extremely knowledgeable, and very accommodating of the clients' changing requests. I always felt secure knowing that Chris was on the project when a request would come through regarding the backend of the site. I highly recommend him, he is probably the best Drupal developer I have ever worked with. 🤩</td>
   </tr>

@@ -1,3 +1,11 @@
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Christopher McIntosh</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
 <a href="https://wembassy.com" target="_blank">
 <img width="100%" height="auto" src="https://www.wembassy.com/sites/default/files/2022-02/github%20header.png" title="Intro backgound"/>
 </a>
@@ -20,6 +28,13 @@ I primarily geek out on Drupal and Web3 technology that can be used to help crea
     <img src="https://img.shields.io/youtube/channel/subscribers/UCcXUo9CFv6axlKTa6EHO06g?style=for-the-badge&logo=youtube&label=Youtube&color=blue" />
   </a>
 </p>
+
+<div class="container">
+    <i class="fa fa-linkedin" id="apple"></i>
+    <i class="fa fa-twitter" id="twitter"></i>
+    <i class="fa fa-youtube github" id="github"></i>
+    <i class="fa fa-facebook-square" id="facebook"></i>
+</div>
 
 ### Testimonials
 
@@ -49,3 +64,59 @@ I primarily geek out on Drupal and Web3 technology that can be used to help crea
 </table>
 
 <img src="https://www.wembassy.com/sites/default/files/2022-02/2022-02-23-21-18-github.com__0.png" width="100%" height="auto"/>
+
+
+<style>
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    height: 100vh;
+    width: 100vw;
+    background: #18191f;
+  }
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+  }
+  #apple,
+  #twitter,
+  #github,
+  #facebook {
+    font-size: 8em;
+    background-color: #18191f;
+    color: #fff;
+    box-shadow: 2px 2px 2px #00000080, 10px 1px 12px #00000080,
+      2px 2px 10px #00000080, 2px 2px 3px #00000080, inset 2px 2px 10px #00000080,
+      inset 2px 2px 10px #00000080, inset 2px 2px 10px #00000080,
+      inset 2px 2px 10px #00000080;
+    border-radius: 29px;
+    padding: 11px 19px;
+    margin: 0 40px;
+    animation: animate 3s linear infinite;
+    text-shadow: 0 0 50px #0072ff, 0 0 100px #0072ff, 0 0 150px #0072ff,
+      0 0 200px #0072ff;
+  }
+  #twitter {
+    animation-delay: 0.3s;
+  }
+  #facebook {
+    animation-delay: 0.7s;
+  }
+  #github {
+    animation-delay: 0.1s;
+  }
+
+  @keyframes animate {
+    from {
+      filter: hue-rotate(0deg);
+    }
+    to {
+      filter: hue-rotate(360deg);
+    }
+  }
+</style>

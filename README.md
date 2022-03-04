@@ -26,6 +26,8 @@ I primarily geek out on Drupal and Web3 technology that can be used to help crea
   <a class="fa fa-youtube" href="https://www.youtube.com/channel/UCcXUo9CFv6axlKTa6EHO06g?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCcXUo9CFv6axlKTa6EHO06g?style=for-the-badge&logo=youtube&label=Youtube&color=blue" />
   </a>
+  <a href="https://www.twitch.tv/cavemancrafting" rel="nofollow">
+  <img alt="Twitch Status" src="https://camo.githubusercontent.com/6cccc282d627f04a2d43e7d03df03e169a1e3ccdc8d74c21d8e0ea3cebb7861e/68747470733a2f2f696d672e736869656c64732e696f2f7477697463682f7374617475732f6672616e636573636f5f6369756c6c613f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974636826636f6c6f723d386134336632" data-canonical-src="https://img.shields.io/twitch/status/cavemancrafting?style=for-the-badge&amp;logo=twitch&amp;color=8a43f2" style="max-width: 100%;">&nbsp;</a>
 </p>
 
 

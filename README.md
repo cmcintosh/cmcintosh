@@ -1,8 +1,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-  <link rel="stylesheet" href="style.css">
+
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
@@ -18,23 +17,17 @@ I primarily geek out on Drupal and Web3 technology that can be used to help crea
 - 📰 Need help with something? Reach out and hire me to solve your Drupal, Web3, or other challenges on <a href="https://www.upwork.com/freelancers/~01d2a1697294ba57be?s=1110580755107926016">Upwork</a>.
 
 <p align="center">
-  <a href="http://twitter.com/TeamWembassy">
+  <a class="fa fa-twitter" href="http://twitter.com/TeamWembassy">
     <img src="https://img.shields.io/twitter/follow/TeamWembassy?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
   </a>
-  <a href="https://discord.gg/82AGaCCAHn">
+  <a class="fa fa-discord" href="https://discord.gg/82AGaCCAHn">
     <img src="https://img.shields.io/discord/722415039696338944?logo=discord&style=for-the-badge&color=blue" />
   </a>
-  <a href="https://www.youtube.com/channel/UCcXUo9CFv6axlKTa6EHO06g?sub_confirmation=1">
+  <a class="fa fa-youtube" href="https://www.youtube.com/channel/UCcXUo9CFv6axlKTa6EHO06g?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCcXUo9CFv6axlKTa6EHO06g?style=for-the-badge&logo=youtube&label=Youtube&color=blue" />
   </a>
 </p>
 
-<div class="container">
-    <i class="fa fa-linkedin" id="apple"></i>
-    <i class="fa fa-twitter" id="twitter"></i>
-    <i class="fa fa-youtube github" id="github"></i>
-    <i class="fa fa-facebook-square" id="facebook"></i>
-</div>
 
 ### Testimonials
 
@@ -65,7 +58,7 @@ I primarily geek out on Drupal and Web3 technology that can be used to help crea
 
 <img src="https://www.wembassy.com/sites/default/files/2022-02/2022-02-23-21-18-github.com__0.png" width="100%" height="auto"/>
 
-
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
   * {
     margin: 0;

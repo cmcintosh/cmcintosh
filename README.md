@@ -5,18 +5,18 @@
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
-<a href="https://wembassy.com" target="_blank">
+<a target="_blank" href="https://wembassy.com" target="_blank">
 <img width="100%" height="auto" src="https://www.wembassy.com/sites/default/files/2022-02/github%20header.png" title="Intro backgound"/>
 </a>
-<a href="https://twitter.com/TeamWembassy"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
-&ensp;<a href="https://www.twitch.tv/cavemancrafting"><img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" title="Twitch" alt="Twitch Account" width="60"/></a>
-&ensp;<a href="https://www.youtube.com/channel/UCcXUo9CFv6axlKTa6EHO06g?sub_confirmation=1"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" width="40"/></a>
-&ensp;<a href="https://discord.gg/82AGaCCAHn"><img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" title="Discord" alt="Discord Community" width="40"/></a>
-&ensp;<a href="https://www.linkedin.com/in/chrismcintoshwembassy/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
-&ensp;<a href="https://dev.to/cmcintosh"><img src="https://github.com/cmcintosh/cmcintosh/blob/main/dev-black.png" title="DEV" alt="DEVto Blog" width="30"/></a>
-&ensp;<a href="https://www.wembassy.com/blog/"><img src="https://github.com/cmcintosh/cmcintosh/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="30"/></a>
-&ensp;<a href="https://github.com/cmcintosh"><img src="https://github.com/cmcintosh/cmcintosh/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a>
-&ensp;<a href="https://app.daily.dev/cmcintosh"><img src="https://github.com/cmcintosh/cmcintosh/blob/main/App%20Icon%20-%20Black.png" title="daily.dev" alt="daily.devGitHub" width="30"/></a>
+<a target="_blank" href="https://twitter.com/TeamWembassy"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
+<a target="_blank" href="https://www.twitch.tv/cavemancrafting"><img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" title="Twitch" alt="Twitch Account" width="60"/></a>
+<a target="_blank" href="https://www.youtube.com/channel/UCcXUo9CFv6axlKTa6EHO06g?sub_confirmation=1"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" width="40"/></a>
+<a target="_blank" href="https://discord.gg/82AGaCCAHn"><img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" title="Discord" alt="Discord Community" width="40"/></a>
+<a target="_blank" href="https://www.linkedin.com/in/chrismcintoshwembassy/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
+<a target="_blank" href="https://dev.to/cmcintosh"><img src="https://github.com/cmcintosh/cmcintosh/blob/main/dev-black.png" title="DEV" alt="DEVto Blog" width="30"/></a>
+<a target="_blank" href="https://www.wembassy.com/blog/"><img src="https://github.com/cmcintosh/cmcintosh/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="30"/></a>
+<a target="_blank" href="https://github.com/cmcintosh"><img src="https://github.com/cmcintosh/cmcintosh/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a>
+<a target="_blank" href="https://app.daily.dev/cmcintosh"><img src="https://github.com/cmcintosh/cmcintosh/blob/main/App%20Icon%20-%20Black.png" title="daily.dev" alt="daily.devGitHub" width="30"/></a>
 <br>
 
 I am a Computer Scientist interested in **Drupal**, **Wordpress**, and **Web3.**
@@ -25,9 +25,9 @@ I am a Computer Scientist interested in **Drupal**, **Wordpress**, and **Web3.**
 I am passionate about Open Source projects that help transform lives, and make entrepreneurial dreams come through.
 I primarily geek out on Drupal and Web3 technology that can be used to help create amasing Online Experiences.
 
-- 🌟 <a href="https://www.drupal.org/u/cmcintosh">Drupal Contributor for over 13 years</a>
-- 🟩 Join our inclusive community <a href="https://discord.gg/82AGaCCAHn">on discord</a>!</b> Where we believe Collaboration 1st, Code 2nd!
-- 📰 Need help with something? Reach out and hire me to solve your Drupal, Web3, or other challenges on <a href="https://www.upwork.com/freelancers/~01d2a1697294ba57be?s=1110580755107926016">Upwork</a>.
+- 🌟 <a target="_blank" href="https://www.drupal.org/u/cmcintosh">Drupal Contributor for over 13 years</a>
+- 🟩 Join our inclusive community <a target="_blank" href="https://discord.gg/82AGaCCAHn">on discord</a>!</b> Where we believe Collaboration 1st, Code 2nd!
+- 📰 Need help with something? Reach out and hire me to solve your Drupal, Web3, or other challenges on <a target="_blank" href="https://www.upwork.com/freelancers/~01d2a1697294ba57be?s=1110580755107926016">Upwork</a>.
 
 <p align="center">
   <a class="fa fa-twitter" href="http://twitter.com/TeamWembassy">
@@ -39,7 +39,7 @@ I primarily geek out on Drupal and Web3 technology that can be used to help crea
   <a class="fa fa-youtube" href="https://www.youtube.com/channel/UCcXUo9CFv6axlKTa6EHO06g?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCcXUo9CFv6axlKTa6EHO06g?style=for-the-badge&logo=youtube&label=Youtube&color=blue" />
   </a>
-  <a href="https://www.twitch.tv/cavemancrafting" rel="nofollow">
+  <a target="_blank" href="https://www.twitch.tv/cavemancrafting" rel="nofollow">
   <img alt="Twitch Status" src="https://camo.githubusercontent.com/6cccc282d627f04a2d43e7d03df03e169a1e3ccdc8d74c21d8e0ea3cebb7861e/68747470733a2f2f696d672e736869656c64732e696f2f7477697463682f7374617475732f6672616e636573636f5f6369756c6c613f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974636826636f6c6f723d386134336632" data-canonical-src="https://img.shields.io/twitch/status/cavemancrafting?style=for-the-badge&amp;logo=twitch&amp;color=8a43f2" style="max-width: 100%;">&nbsp;</a>
 </p>
 

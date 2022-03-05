@@ -4,7 +4,8 @@
 
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+
+<p dir="auto"><a href="https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct.svg" alt="SWUbanner" style="max-width: 100%;"></a></p>
 
 <a target="_blank" href="https://wembassy.com" target="_blank">
 <img width="100%" height="auto" src="https://www.wembassy.com/sites/default/files/2022-02/github%20header.png" title="Intro backgound"/>

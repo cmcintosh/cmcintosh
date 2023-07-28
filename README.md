@@ -6,19 +6,13 @@
 </head>
 
 
-
-<a target="_blank" href="https://wembassy.com" target="_blank">
-<img width="100%" height="auto" src="https://www.wembassy.com/sites/default/files/2022-02/github%20header.png" title="Intro backgound"/>
-</a>
 <a target="_blank" href="https://twitter.com/TeamWembassy"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
 <a target="_blank" href="https://www.twitch.tv/cavemancrafting"><img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" title="Twitch" alt="Twitch Account" width="60"/></a>
 <a target="_blank" href="https://www.youtube.com/channel/UCcXUo9CFv6axlKTa6EHO06g?sub_confirmation=1"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" width="40"/></a>
 <a target="_blank" href="https://discord.gg/82AGaCCAHn"><img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" title="Discord" alt="Discord Community" width="40"/></a>
 <a target="_blank" href="https://www.linkedin.com/in/chrismcintoshwembassy/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
-<a target="_blank" href="https://dev.to/cmcintosh"><img src="https://github.com/cmcintosh/cmcintosh/blob/main/dev-black.png" title="DEV" alt="DEVto Blog" width="30"/></a>
 <a target="_blank" href="https://www.wembassy.com/blog/"><img src="https://github.com/cmcintosh/cmcintosh/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="30"/></a>
 <a target="_blank" href="https://github.com/cmcintosh"><img src="https://github.com/cmcintosh/cmcintosh/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a>
-<a target="_blank" href="https://app.daily.dev/cmcintosh"><img src="https://github.com/cmcintosh/cmcintosh/blob/main/App%20Icon%20-%20Black.png" title="daily.dev" alt="daily.devGitHub" width="30"/></a>
 <br>
 
 I am a Computer Scientist interested in **Drupal**, **Wordpress**, and **Web3.**

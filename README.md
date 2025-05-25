@@ -34,7 +34,7 @@ I primarily geek out on Drupal and Web3 technology that can be used to help crea
   <a class="fa fa-youtube" href="https://www.youtube.com/channel/UCcXUo9CFv6axlKTa6EHO06g?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCcXUo9CFv6axlKTa6EHO06g?style=for-the-badge&logo=youtube&label=Youtube&color=blue" />
   </a>
-  <a target="_blank" href="https://www.twitch.tv/cavemancrafting" rel="nofollow">
+  <a target="_blank" href="https://www.twitch.tv/cavemancrafting" rel="nofollow"><img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" title="Twitch" alt="Twitch Account" width="60"/></a>
   
 </p>
 
